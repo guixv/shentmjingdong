@@ -1,0 +1,324 @@
+ul {
+    list-style-type: none;
+}
+
+a {
+    color: rgba(114, 114, 114, 0.73);
+    text-decoration: none;
+}
+
+hr{
+    width: 75%;
+    align-items: center;
+}
+
+select {
+    color: #2c2c2c;
+    background: #f1f1f1;
+    border: 0;
+    font-size: medium;
+}
+
+.red{
+    color: red;
+}
+
+.darkred{
+    color: darkred;
+}
+
+.closebuttom{
+    float: right;
+    position: absolute;
+    right: 1%;
+    top: 60px;
+    height: 19px;
+    overflow: hidden;
+}
+
+.beian{
+    float: left;
+    width: 100%;
+}
+
+.beian_1_1{
+    float: left;
+    position: relative;
+    left: 25%;
+    right: 25%;
+}
+
+.beian_1_2{
+    float: left;
+    position: relative;
+    left: 23%;
+    right: 23%;
+}
+
+.beian_1_3{
+    float: left;
+    position: relative;
+    left: 33%;
+    right: 33%;
+}
+
+.beian_1_4{
+    float:left;
+    position: relative;
+    left: 45%;
+}
+
+.beian_1_5{
+    float:left;
+    position: relative;
+    left: 30%;
+    width: 40%;
+    right: 30%;
+}
+
+.beian_2{
+    float: left;
+    position: relative;
+    left: 0;
+    font-size: smaller;
+    color: #545454;
+}
+
+.beian_2_{
+    float: left;
+    position: relative;
+    width: 20%;
+}
+
+.hr{
+    float: left;
+    width: 100%;
+}
+
+.slogen{
+    float: left;
+    width: 25%;
+}
+
+.oneoutoffour{
+    width: 100%
+}
+
+.fl {
+    float: left;
+}
+
+.fr li {
+    float: right;
+    padding: 0 10px;
+}
+
+.fr .line {
+    width: 1px;
+    height: 12px;
+    background-color: #f1f1f1;
+    margin-top: 9px;
+    padding: 0;
+}
+
+.shortcut {
+    height: 30px;
+    line-height: 30px;
+    background-color: #f1f1f1;
+}
+
+.border{
+    border: 1px;
+    solid-color: #2c2c2c;
+}
+
+.dt i,
+.fore i {
+    font: 400 15px/15px "宋体";
+    position: absolute;
+    top: 13px;
+    right: 3px;
+    height: 7px;
+    overflow: hidden;
+    width: 15px;
+}
+
+.dt,
+.shortcut .fore {
+    padding: 0 20px 0 10px;
+    position: relative;
+}
+
+
+.dt s,
+.fore s {
+    position: absolute;
+    top: -8px;
+    left: 0;
+}
+
+.fulllength{
+    width: 100%;
+}
+
+
+.logo{
+    float: left;
+    position: relative;
+    width: 20%;
+    left: 35px;
+    top: 25px;
+}
+
+.search{
+    float: left;
+    position: relative;
+    left: 10%;
+    top: 30px;
+    width: 44%;
+}
+
+.searchbox{
+    height:50px;
+    width: 100%;
+    background: darkred;
+}
+
+.bottom_contact{
+    float: left;
+    width: 100%;
+}
+
+.bottom_contact_{
+    position: relative;
+    left: 20%;
+}
+
+.contact_bottom_con{
+    float: left;
+}
+
+.shortcut .tel-jd {
+    padding: 0 20px 0 25px;
+}
+
+.tel {
+    position: absolute;
+    width: 15px;
+    height: 20px;
+    left: 0;
+    top: 5px;
+}
+
+#phone {
+    width: 25px;
+}
+
+
+
+#div_1{
+    width: 100%;
+}
+
+#searchbox_1{
+    position: relative;
+    top: 2px;
+    width: 85%;
+    height: 35px;
+}
+
+#searchbox_2{
+    height: 40px;
+    width: 10%;
+    color: white;
+    background: darkred;
+    font-size: x-large;
+    font-family: 宋体, serif;
+    position: relative;
+    top: 3px;
+    border: 0;
+}
+
+
+
+#searchbox{
+    position: relative;
+    left: 1%;
+}
+
+#hotward{
+    float: left;
+}
+
+#gouwuche{
+    float: right;
+    position: relative;
+    height: 50px;
+    width: 11%;
+    top: 35px;
+    right: 6%;
+    background: #e6e6e6;
+}
+
+#gouwuche_img{
+    position: relative;
+    left: 5%;
+    top: 5px;
+    width: 20%;
+    height: 27px;
+}
+
+#gouwuche_word{
+    position: relative;
+}
+
+#zhongjian{
+    font-family: 黑体, serif;
+    font-size: large;
+    color: darkslateblue;
+}
+
+li.question_board_2{
+    position: relative;
+    left:2%;
+    top:-15px;
+    font-size:large;
+}
+
+.question_board{
+    float: left;
+    width: 15%;
+    position: relative;
+    left: 3%;
+}
+
+.question_board_1{
+    position: relative;
+    left: 15%;
+    font-size: x-large;
+}
+
+
+#peisong{
+    float: right;
+    width: 201px;
+    height: 163px;
+    background-image: url("images/china.jpg");
+    position: relative;
+    top: 50px;
+    right: 5%;
+}
+
+
+#peisong_title{
+    color: #747474;
+    font-size: medium;
+}
+
+#peisong_con{
+    color: rgba(114, 114, 114, 0.73);
+}
+
+#peisong_con_{
+    text-align: right;
+}
